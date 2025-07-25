@@ -35,7 +35,7 @@ Tenho interesse em construir soluções bem estruturadas, aprender continuamente
 
 - 📍 Araraquara/SP, Brasil
 - 📧 pro.henriquerossin@gmail.com
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/henrique-rossin/?trk=opento_sprofile_topcard))
+- 🌐 [LinkedIn]([(https://www.linkedin.com/in/henrique-rossin/?trk=opento_sprofile_topcard)])
 
 ---
 
