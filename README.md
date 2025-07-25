@@ -22,7 +22,7 @@
   Sistema simples em Java para cadastro e empréstimo de livros via terminal.
 
 - 💼 **[pt2025-dev-mm](https://github.com/henriquerossin/pt2025-dev-mm)**  
-  Repositório de exercícios e provas de conceito voltados à prática de backend.
+  Payment Checkout API RESTful em Java 17 + Spring Boot.
 
 ---
 
