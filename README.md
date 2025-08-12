@@ -11,7 +11,7 @@ Tenho interesse em construir soluções bem estruturadas, aprender continuamente
 - **Frontend:** TypeScript, JavaScript, React
 - **Backend:** Java, Spring Boot
 - **Ferramentas:** Git, GitHub, IntelliJ IDEA, VSCode
-- **Banco de Dados:** MySQL (básico), QSLite
+- **Banco de Dados:** MySQL, QSLite (básico)
 
 ---
 
