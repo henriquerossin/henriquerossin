@@ -1,6 +1,6 @@
 # Henrique Rossin
 
-👋 Olá! Sou o Henrique, desenvolvedor Full Stack em formação, no backend utilizando **Java + Spring Boot**, e frontend em **HTML, CSS, TypeScript e React**.
+👋 Olá! Sou o Henrique, desenvolvedor Back-end, utilizo **Java + Spring Boot | MySQL**, e no frontend **HTML, CSS, TypeScript e React**.
 
 Tenho interesse em construir soluções bem estruturadas, aprender continuamente e evoluir através de desafios práticos e trabalho em equipe.
 
