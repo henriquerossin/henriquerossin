@@ -1,6 +1,6 @@
 # Henrique Rossin
 
-👋 Olá! Sou o Henrique, desenvolvedor de software com foco em Back-end. Trabalho utilizando **Java + Spring Boot | MySQL**, e no frontend (quando necessário) **TypeScript e React**.
+👋 Olá! Sou o Henrique, desenvolvedor de software com foco em Back-end.
 
 Tenho interesse em construir soluções bem estruturadas, aprender continuamente e evoluir através de desafios práticos e trabalho em equipe.
 
