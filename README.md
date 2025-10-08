@@ -8,10 +8,10 @@ Tenho interesse em construir soluções bem estruturadas, aprender continuamente
 
 ## 💻 Tecnologias
 
-- **Frontend:** TypeScript, JavaScript, React
+- **Frontend:** TypeScript, React
 - **Backend:** Java, Spring Boot
 - **Ferramentas:** Git, GitHub, IntelliJ IDEA, VSCode
-- **Banco de Dados:** MySQL, QSLite (básico)
+- **Banco de Dados:** MySQL
 
 ---
 
