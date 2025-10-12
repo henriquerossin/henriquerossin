@@ -1,6 +1,6 @@
 # Henrique Rossin
 
-👋 Olá! Sou o Henrique, desenvolvedor de software com foco em Back-end.
+👋 Olá! Sou o Henrique, desenvolvedor de software Back-end.
 
 Tenho interesse em construir soluções bem estruturadas, aprender continuamente e evoluir através de desafios práticos e trabalho em equipe.
 
