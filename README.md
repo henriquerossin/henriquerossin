@@ -24,9 +24,6 @@ Tenho interesse em construir soluções bem estruturadas, aprender continuamente
 - 💼 **[pt2025-dev-mm](https://github.com/henriquerossin/pt2025-dev-mm)**  
   API RESTful de checkout de pagamentos desenvolvida em Java 17 + Spring Boot.
 
-- 📚 **[Biblioteca-Java](https://github.com/henriquerossin/Biblioteca-Java)**  
-  Sistema simples em Java para cadastro e empréstimo de livros via terminal.
-
 ---
 
 ## 📫 Como me encontrar
