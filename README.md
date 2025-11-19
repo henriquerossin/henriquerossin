@@ -18,8 +18,8 @@ Tenho interesse em construir soluções bem estruturadas, aprender continuamente
 - 🎬 **[Banco de Dados em SQL Server](https://github.com/henriquerossin/SneezePharmaDB)**  
   Projeto de banco de dados em SQL Server, com normalização até a 3ª forma normal (NF3).
 
-- 🧠 **[To-Do List com React + TypeScript](https://github.com/henriquerossin/to-do-list---react)**  
-  Lista de tarefas com validação de campos e persistência em `localStorage`.
+- 🧠 **[MVC em C# + SQL Server](https://github.com/henriquerossin/LocadoraMVC)**  
+  Projeto MVC em C# com integração ao **SQL Server**, contendo **Models**, **Controllers**, **Views** e o **banco de dados já configurado**. 
 
 - 💼 **[pt2025-dev-mm](https://github.com/henriquerossin/pt2025-dev-mm)**  
   API RESTful de checkout de pagamentos desenvolvida em Java 17 + Spring Boot.
