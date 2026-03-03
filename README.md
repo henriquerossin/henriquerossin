@@ -1,13 +1,14 @@
 ### **Henrique Rossin 👋**  
 Desenvolvedor **Back-end .NET**.  
-Tenho interesse em construir soluções bem estruturadas, aprender continuamente e evoluir por meio de desafios práticos e do trabalho em equipe.
+Extremamente interessado em construir soluções bem estruturadas, aprender continuamente e evoluir por meio de desafios práticos e trabalho em equipe.
 
 ---
 
 ### 🛠️ **Tecnologias**
 - C# | .NET | ASP.NET Core
-- SQL Server | MongoDB | Redis  
+- MongoDB | Redis | SQL Server  
 - Docker
+- RabbitMQ
 - Git | GitHub | Azure DevOps
 
 ---
