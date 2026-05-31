@@ -7,7 +7,7 @@ Extremamente interessado em construir soluções bem estruturadas, aprender cont
 ### 🛠️ **Tecnologias**
 - C# | .NET | ASP.NET Core
 - MongoDB | Redis | SQL Server  
-- Docker
+- Docker | Kubernetes
 - RabbitMQ
 - Git | GitHub | Azure DevOps
 
