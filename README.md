@@ -2,7 +2,7 @@
 
 Desenvolvedor **Back-end .NET**, com foco em APIs e microsserviços.
 
-- 💼 Estagiário de desenvolvimento back-end na **5by5 | Soluções em Sistemas**, atuando em microsserviços de clientes.
+- 💼 Estagiário de desenvolvimento back-end na **5by5 | Soluções em Sistemas**, atuando em Api's, microsserviços e mensageria.
 - 🔄 Migrei mais de 10 microsserviços de **.NET 8 para .NET 10 (LTS)**.
 - 🎓 Ciência da Computação na UNIP, com conclusão prevista para junho de 2027.
 
