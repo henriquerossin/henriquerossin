@@ -1,28 +1,16 @@
 ### **Henrique Rossin 👋**  
-Desenvolvedor **Back-end .NET**.  
+Desenvolvedor **Back-end .NET**, com foco em APIs e microsserviços.  
 Extremamente interessado em construir soluções bem estruturadas, aprender continuamente e evoluir por meio de desafios práticos e trabalho em equipe.
 
 ---
 
 ### 🛠️ **Tecnologias**
-- C# | .NET | ASP.NET Core
-- MongoDB | Redis | SQL Server  
+- C# | .NET 8 / .NET 10 | ASP.NET Core
+- APIs REST | Microsserviços | Mensageria (Azure Service Bus)
+- MongoDB | SQL Server (Dapper) | Redis
+- xUnit | Moq | FluentAssertions
 - Docker | Kubernetes
-- RabbitMQ
 - Git | GitHub | Azure DevOps
-
----
-
-## 🚀 Projetos em destaque
-
-- 🎬 **[Banco de Dados em SQL Server](https://github.com/henriquerossin/SneezePharmaDB)**  
-  Projeto de banco de dados em SQL Server, com normalização até a 3ª forma normal (NF3).
-
-- 🧠 **[MVC em C# + SQL Server](https://github.com/henriquerossin/LocadoraMVC)**  
-  Projeto MVC em C# com integração ao **SQL Server**, contendo **Models**, **Controllers**, **Views** e o **banco de dados já configurado**. 
-
-- 💼 **[pt2025-dev-mm](https://github.com/henriquerossin/pt2025-dev-mm)**  
-  API RESTful de checkout de pagamentos desenvolvida em Java 17 + Spring Boot.
 
 ---
 
@@ -30,7 +18,7 @@ Extremamente interessado em construir soluções bem estruturadas, aprender cont
 
 - 📍 Araraquara/SP, Brasil  
 - 📧 pro.henriquerossin@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/henrique-rossin/?trk=opento_sprofile_topcard)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/henrique-rossin/)
 
 ---
 
